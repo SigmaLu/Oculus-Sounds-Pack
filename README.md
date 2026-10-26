@@ -1,2 +1,2 @@
-# Oculus--MTQL-Sounds-Pack
+# Oculus-MTQL-Sounds-Pack
 Meta Quest Link UI sounds
