@@ -1,4 +1,4 @@
-# Meta Quest Link UI Sounds/smt
+# Meta Quest Link UI Sounds
 
 A collection of UI sounds and other audio taken from the assets in the `mtql` folder of the Meta Quest Link app.
 
