@@ -2,7 +2,7 @@
 
 A collection of UI sounds and other audio taken from the assets in the `mtql` folder of the Meta Quest Link app.
 
-## What's inside
+## Whats inside
 
 - Menu and interface sounds (clicks, hovers, confirmations, etc.)
 - Other miscellaneous sound effects found in the same assets folder
