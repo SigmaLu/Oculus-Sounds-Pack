@@ -1,6 +1,6 @@
-# Meta Quest Link UI Sounds
+# Meta Quest UI Sounds
 
-A collection of UI sounds and other audio taken from the assets in the `mtql` folder of the Meta Quest Link app.
+A collection of UI sounds and other audio taken from the assets in the `assets` folder of the Meta Quest Link app.
 
 ## Whats inside
 
@@ -9,7 +9,7 @@ A collection of UI sounds and other audio taken from the assets in the `mtql` fo
 
 ## Source
 
-All audio comes from the `C:\Program Files\Oculus\Support\oculus-dash\dash\assets\raw\audio_dash` assets folder of Meta Quest Link.
+meta quest link audio comes from the `C:\Program Files\Oculus\Support\oculus-dash\dash\assets\raw\audio_dash` assets folder of Meta Quest Link.
 
 ## Usage
 
